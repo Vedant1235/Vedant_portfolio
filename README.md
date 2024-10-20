@@ -6,6 +6,13 @@ This project showcases my work, skills, and projects, providing an insight into 
 
 🌐 Live Demo You can visit the live version of this portfolio here :- https://vedantportfolio1.netlify.app/
 
+Directory Structure
+- Assets/ - Contains various assets used in the portfolio.
+- Images/images/ - Contains images displayed on the website.
+- index.html - The main HTML file for the website.
+- script.js - JavaScript file that handles interactive elements on the website.
+- README.md - This file, explaining the project.
+  
 🚀 Features
 - About Me: Learn more about my background, skills, and areas of expertise.
 - Projects: A showcase of various projects I've worked on, including descriptions, features, and technologies used.
@@ -27,10 +34,5 @@ This project showcases my work, skills, and projects, providing an insight into 
 
 Email: vedantpatil@gmail.com LinkedIn: Vedant Patil GitHub: Vedant Patil
 
-Directory Structure
-Assets/ - Contains various assets used in the portfolio.
-Images/images/ - Contains images displayed on the website.
-index.html - The main HTML file for the website.
-script.js - JavaScript file that handles interactive elements on the website.
-README.md - This file, explaining the project.
+
 
