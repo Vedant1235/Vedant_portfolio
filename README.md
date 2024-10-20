@@ -26,3 +26,11 @@ This project showcases my work, skills, and projects, providing an insight into 
 📬 Contact Me Feel free to reach out if you have any questions or collaboration ideas:
 
 Email: vedantpatil@gmail.com LinkedIn: Vedant Patil GitHub: Vedant Patil
+
+Directory Structure
+Assets/ - Contains various assets used in the portfolio.
+Images/images/ - Contains images displayed on the website.
+index.html - The main HTML file for the website.
+script.js - JavaScript file that handles interactive elements on the website.
+README.md - This file, explaining the project.
+
